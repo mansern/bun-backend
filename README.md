@@ -28,7 +28,7 @@ Developed by: **Muhammad Anser Naseer**
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mansern/bun-backend
 cd bun-backend
 bun install
 bun run index.ts
